@@ -1,6 +1,7 @@
 - 👋 Hello! I'Mahmudul Sajid, a passionate software developer with experience in mobile and web development.
 - ![Animation](./animation.gif)
-  
+  <img src="./animation.gif" alt="Animation" width="400"/>
+
 - ## Skills
 
 - **Languages:** Dart, Python
