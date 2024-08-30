@@ -1,8 +1,6 @@
 - 👋 Hello! I'Mahmudul Sajid, a passionate software developer with experience in mobile and web development.
 - ![Animation](./animation.gif)
-
-
-- 
+  
 - ## Skills
 
 - **Languages:** Dart, Python
@@ -15,7 +13,7 @@
 
 - 👀 I’m interested in coding,playing football and travelling.
 - 🌱 I’m currently learning flutter and Django
-- 
+
 -## Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mahmudul-sajid-62119b2a8/
 - **Email:** ahmdsajid2200@gmail.com
