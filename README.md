@@ -1,5 +1,6 @@
 - 👋 Hello! I'Mahmudul Sajid, a passionate software developer with experience in mobile and web development.
-- 
+- ![Animation](./animation.gif)
+
 
 - 
 - ## Skills
