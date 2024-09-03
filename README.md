@@ -4,7 +4,7 @@
 
 - ## Skills
 
-- **Languages:** Dart, Python
+- **Languages:** C, C++, Dart, Python
 - **Frameworks:** Flutter, Django
 - **Tools:** Git, Docker, VS Code, Android Studio
 
