@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdsajid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdsajid" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter Based Projects**
+
+- 🌱 I’m currently learning **Flutter,Django**
+
+- 💬 Ask me about **flutter, python, C++**
 
 - 📫 How to reach me **ahmdsajid2200@gmail.com**
 
